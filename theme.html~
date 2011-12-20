@@ -1,0 +1,704 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en"><head><title>Create local power while building a global movement. | [Site Name]</title><meta name="google-site-verification" content="LKUJZqwKMnEGjg_dQNKL-2eLLK3yvftU0RKv7SuymGQ"><meta name="msvalidate.01" content="DC928E84A1569AF4933A7DB431C08DB4"><meta name="y_key" content="9d9c6c76735e5a92"><meta http-equiv="Content-type" content="text/html;charset=UTF-8"><meta http-equiv="content-language" content="en-us"><meta name="geo.country" content="US"><meta name="geo.region" content="US-DC"><meta name="ICBM" content="38.896231, -77.024158"><meta name="og:site_name" content="[Site Name]"><meta name="fb:app_id" content=""><meta property="og:site_name" content="[Site Name]"><meta property="fb:app_id" content=""><meta name="keywords" content="energy efficiency, home energy, climate change, [Site Name]"><meta name="description" content="We can take action to keep millions of pounds of dirty coal from polluting our communities. Every point you earn means one less pound of coal needs to be burned."><meta name="DC.title" content="[Site Name]"><meta name="DC.creator" content="[Site Name]"><meta name="DC.subject" content="energy efficiency; home energy; climate change;"><meta name="DC.description" content="We can take action to keep millions of pounds of dirty coal from polluting our communities. Every point you earn means one less pound of coal needs to be burned."><meta name="DC.format" content="text/html; charset=utf-8"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><link rel="alternate" type="application/atom+xml" href="http://feeds.feedburner.com/350org" title="Blog"><link rel="shortcut icon" href="http://localhost:8000/static/images/theme/favicon.ico?1311452414"><link rel="stylesheet" href="style.css" type="text/css" media="screen" charset="utf-8"><link rel="stylesheet" href="jquery.ui.custom.css" type="text/css" media="screen" charset="utf-8"><script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-11623269-1']);
+            _gaq.push(['_trackPageview']);
+        </script></head><body>
+        <div id="header_container">
+            <div id="header" class="container_12">
+                <div class="grid_12 alpha omega">
+                    <a href="http://localhost:8000/" title="Home" id="header_logo" class="logo_text">
+                        [Site Name]
+                    </a>
+                    <form action="http://localhost:8000/search" id="cse_search_box_form" class="search_widget">
+                        <div>
+                            <input type="hidden" name="cx" value="014150106453223044781:ssnlsa12t7k"><input type="hidden" name="cof" value="FORID:11"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="31" id="cse_search_box" placeholder="Search the site..."><button type="submit" id="cse_search_box_submit" class="search_button">
+                                <span class="sprite_search_mag"></span>
+                            </button>
+                        </div>
+                    </form>
+                    <div id="header_links">
+                        <a href="http://localhost:8000/about/" class="not_last" id="header_about">About Us</a>
+			<a href="http://www.350.org" class="not_last">350.org Homepage</a>
+                        <a href="http://www.350.org/about/blog/">Blog</a>
+                         
+                            <a href="http://localhost:8000/login/" class="button button_small">Log In</a>
+                         
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="content_container" class="section_home">
+            <div class="container_12">
+                <div class="grid_12 alpha omega">
+                    
+    
+
+    <div class="grid_12 alpha omega" id="home_slide_nav">
+        <a href="http://localhost:8000#1" id="home_slide_nav_1" class="home_slide_nav_selected">Welcome</a>
+        <a href="http://localhost:8000#2" id="home_slide_nav_2">Start Local Projects</a>
+        <a href="http://localhost:8000#3" id="home_slide_nav_3">Find Local Groups</a>
+        <a href="http://localhost:8000#4" id="home_slide_nav_4">Create an Account</a>
+    </div>
+    <div class="grid_1 alpha center">
+        <a href="http://localhost:8000" id="home_slide_nav_prev" class="sprite_slide_nav_prev"></a>
+    </div>
+    <div class="grid_10">
+        <div id="home_slide_container">
+            <div id="home_slide_holder">
+                <div id="home_slide_1" class="home_slide">
+                    <div class="home_slide_left">
+		      <a href="http://localhost:8000/groups/">
+                        <img src="slide-find-a-group.jpe" alt="" width="420" height="298"></a>
+                    </div>
+                    <div class="home_slide_right">
+		      
+                        <h1>Join A Local Climate Action Group!</h1>
+                        <p class="home_slide_main_text">
+			  
+                            [Site Name] makes local activism social, easy, and fun.  
+
+People everywhere are working to build a powerful movement to transform our communities -- and our planet -- from the ground up. 
+<span class="whitespace other" title="Tab">&#187;</span><span class="whitespace other" title="Tab">&#187;</span><span class="whitespace other" title="Tab">&#187;</span>  
+                        </p>
+                        <p>
+                            <a href="http://localhost:8000/register/" class="button button_mega button_shadow">Create an Account &#8250;</a>
+                        </p>
+			
+                    </div>
+                </div>
+                <div id="home_slide_2" class="home_slide">
+                    <div class="home_slide_left">
+                        <h1>You have the power <br>to transform your community.</h1>
+                        <p class="home_slide_main_text">
+			  
+There's plenty you can do at the local level to fight climate change, build a movement, and transform your community from the ground up. The projects on this website give you the know-how and the tools to organize a strong local group and jumpstart the climate movement. 
+<span class="whitespace other" title="Tab">&#187;</span><span class="whitespace other" title="Tab">&#187;</span><span class="whitespace other" title="Tab">&#187;</span>  
+                        </p>
+                        <p>
+                            <a href="http://localhost:8000/projects/" class="button button_mega button_shadow">See All Projects &#8250;</a>
+                        </p>
+                    </div>
+                    <div class="home_slide_right">
+                         <img src="slide-youth-bikes.jpe" alt="" width="411" height="298"></div>
+                </div>
+                <div id="home_slide_3" class="home_slide">
+                    <div class="home_slide_left">
+                         <img src="slide-meeting.jpe" alt="" width="411" height="297"></div>
+                    <div class="home_slide_right">
+                        <h1>Find a local group to join</h1>
+                        <p class="home_slide_main_text">
+			  
+                            Get involved with a local group to build local power. With [Site Name], you can connect with local activists to take on projects, launch campaigns, and more.
+<span class="whitespace other" title="Tab">&#187;</span><span class="whitespace other" title="Tab">&#187;</span><span class="whitespace other" title="Tab">&#187;</span>  
+                        </p>
+                        <p>
+                            <a href="http://localhost:8000/groups/" class="button button_mega button_shadow">Find Groups &#8250;</a>
+                        </p>
+                    </div>
+                </div>
+                <div id="home_slide_4" class="home_slide">
+                    <div class="home_slide_left">
+                        <h1>Host and attend local climate events</h1>
+                        <p class="home_slide_main_text">
+			  
+                          Find local events taking place near you, or host your own event using our organizational tools and event materials.  After the event, start a group to keep the momentum going and stay in touch with other attendees.
+			  
+                        </p>
+                        <p>
+                            <a href="http://localhost:8000/events/" class="button button_mega button_shadow">Find Events &#8250;</a>
+                        </p>
+
+                    </div>
+                    <div class="home_slide_right">
+                        <img src="slide-ukraine.jpe" alt="" width="400" height="284"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="grid_1 omega">
+        <a href="http://localhost:8000" id="home_slide_nav_next" class="sprite_slide_nav_next"></a>
+    </div>
+
+    <div class="grid_12 alpha omega" id="home_stat_bar">
+        <div class="home_stat_wrap">
+            <div class="home_stat">
+              Number of activists using [Site Name]
+            </div>
+            <div class="home_stat_num home_stat_1">51</div>
+        </div>
+        <div class="home_stat_wrap">
+            <div class="home_stat">
+              Total [Site Name] Groups
+            </div>
+            <div class="home_stat_num home_stat_2">26</div>
+        </div>
+        <div class="home_stat_wrap">
+            <div class="home_stat">
+              [Insert New Metric Here] on [Site Name]
+            </div>
+            <div class="home_stat_num home_stat_3">3,308</div>
+        </div>
+        <div class="home_stat_wrap home_stat_wrap_last">
+            <div class="home_stat">
+              Projects Completed on [Site Name]
+            </div>
+            <div class="home_stat_num home_stat_4">1</div> 
+        </div>
+    </div>
+
+    <div class="grid_12 alpha omega">
+        <div class="grid_4 alpha">
+	  <div id="home_featured_projects">
+            <h2 class="home_feature_heading">Recent Events</h2>
+                <ul class="plain_list nugget_4c_list"><li>
+		    <a href="http://localhost:8000/events/4/" class="group_list_thumb">
+                      <img src="staticmap.png" alt="Great Neck, NY, USA" height="60" width="60"></a>
+		    <div>
+		      <a href="http://localhost:8000/events/4/">
+			FEoo</a>
+		      <br><span>Oct. 29, 2011</span>
+		      <br>
+		      
+		      3 attendees
+		      
+		    </div>
+		  </li>
+		  
+		  <li>
+		    <a href="http://localhost:8000/events/3/" class="group_list_thumb">
+                      <img src="staticmap.png" alt="Singapore" height="60" width="60"></a>
+		    <div>
+		      <a href="http://localhost:8000/events/3/">
+			Singapore Energy Meetup</a>
+		      <br><span>Oct. 11, 2011</span>
+		      <br>
+		      
+		      2 attendees
+		      
+		    </div>
+		  </li>
+		  
+		  <li>
+		    <a href="http://localhost:8000/events/1/" class="group_list_thumb">
+                      <img src="staticmap.png" alt="Bellingham, WA, USA" height="60" width="60"></a>
+		    <div>
+		      <a href="http://localhost:8000/events/1/">
+			Energy Meetup</a>
+		      <br><span>Aug. 31, 2011</span>
+		      <br>
+		      
+		      1 attendee
+		      
+		    </div>
+		  </li>
+		  
+		  <li>
+		    <a href="http://localhost:8000/events/2/" class="group_list_thumb">
+                      <img src="staticmap.png" alt="Sydney NSW, Australia" height="60" width="60"></a>
+		    <div>
+		      <a href="http://localhost:8000/events/2/">
+			Emeryville Greens Meeting</a>
+		      <br><span>Aug. 31, 2011</span>
+		      <br>
+		      
+		      1 attendee
+		      
+		    </div>
+		  </li>
+		  
+                </ul><br><div class="center">
+                    <a href="http://localhost:8000/projects/" class="button button_blue button_189">Find Events Near You</a>
+                </div>
+	  </div>
+        </div>
+        <div class="grid_4">
+            <h2 class="home_feature_heading">Featured 350 Groups</h2>
+            <ul class="plain_list nugget_4c_list"><li>
+                <a href="http://localhost:8000/350-long-island/" class="group_list_thumb">
+                    <img src="default_group__thumbnail_colorspace_60x60smartcrop.png" alt="group image" height="60" width="60"></a>
+                <div>
+                    <a href="http://localhost:8000/350-long-island/">350 Long Island</a><br><span>Long Island, New York, USA</span><br>
+		    
+                    
+		    3 members 
+		    
+		    
+                </div>
+                </li>
+                
+                <li>
+                <a href="http://localhost:8000/350-egypt/" class="group_list_thumb">
+                    <img src="default_group__thumbnail_colorspace_60x60smartcrop.png" alt="group image" height="60" width="60"></a>
+                <div>
+                    <a href="http://localhost:8000/350-egypt/">350 Egypt</a><br><span>Cairo, Egypt</span><br><a class="button" rel="nofollow" href="https://www.facebook.com/groups/160571285329/">Visit Site</a>
+		    
+                </div>
+                </li>
+                
+                <li>
+                <a href="http://localhost:8000/american-samoa-350/" class="group_list_thumb">
+                    <img src="default_group__thumbnail_colorspace_60x60smartcrop.png" alt="group image" height="60" width="60"></a>
+                <div>
+                    <a href="http://localhost:8000/american-samoa-350/">American Samoa 350</a><br><span>American Samoa</span><br><a class="button" rel="nofollow" href="https://www.facebook.com/groups/AmericanSamoa350/">Visit Site</a>
+		    
+                </div>
+                </li>
+                
+            </ul><br><div class="center">
+                <a href="http://localhost:8000/groups/" class="button button_blue button_189">Browse Groups</a>
+            </div>
+        </div>
+        <div class="grid_4 omega">
+            <div id="home_featured_users">
+                <h2 class="home_feature_heading">New Members</h2>
+                <ul class="plain_list nugget_2c_list"><li>
+    <img src="e2e713f91abb145891e6e5ab01fd3ae0.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/47/">Lammy T.</a><br>
+        Troy, NY, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="f0da725b8c7e67d8186cbe6e0e13a8bc.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/40/">Joseph D.</a><br>
+        Troy, NY, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="2a98a56ee9ce472014e6f1e38d25d6ca.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/39/">Joseph D.</a><br>
+        Troy, NY, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="e66afd3d13ef7851c7556f8130bad92e.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/38/">Joseph D.</a><br>
+        Troy, NY, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="15efe8c2cc819afeb7db472fbfa2b049.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/37/">Joseph D.</a><br>
+        Troy, NY, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="b2ed4abbc84c22f07cf87d0bf21dd79e.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/36/">Ethan J.</a><br>
+        Great Neck, NY 11020, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="8316b7d6e9d7cb3c0ef5e91e91e7d614.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/35/">Ethan J.</a><br>
+        Great Neck, NY 11020, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="c23f875428b59230af11e6fae5bdba28.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/32/">Ethan J.</a><br>
+        Great Neck, NY 11020, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="1c514045d0668655dbfa0958d060ec30.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/31/">Ethan J.</a><br>
+        Great Neck, NY 11020, USA
+    </div>
+</li>
+
+                    
+                        
+
+<li>
+    <img src="3e71995c2a3b1adf7259e4fda15c221d.png" width="40" height="40"><div>
+        <a href="http://localhost:8000/user/30/">Ethan J.</a><br>
+        Great Neck, NY 11020, USA
+    </div>
+</li>
+
+                    
+                </ul><br><div class="center">
+                    <a href="http://localhost:8000/user/list/" class="button button_blue button_189">Find Members</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var RAH = RAH || {};
+        RAH.pagescripts = RAH.pagescripts || [];
+        RAH.pagescripts.push("/static/js/pages/rah.home.js?1318084348");
+    RAH.sprite_url = "/static/images/theme/sprite.png?1324405289";
+    // Add locations for plotting on the map
+    RAH.event_locations = [];
+    RAH.map_center = {};
+    
+    
+    
+    
+        var info = "<b>350Dominicana</b><br/> Santo Domingo, Dominican Republic<br/>";
+       
+            info += "<a ref='nofollow' href='http://350dominicana.org/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "18.5",
+            lon: "-69.9833333",
+            "info": info
+        });
+    
+        var info = "<b>350 Ankara</b><br/> Ankara, Turkey<br/>";
+       
+            info += "<a ref='nofollow' href='http://350ankara.blogspot.com/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "39.92077",
+            lon: "32.85411",
+            "info": info
+        });
+    
+        var info = "<b>350 Australia</b><br/> Sydney, Australia<br/>";
+       
+            info += "<a ref='nofollow' href='http://world.350.org/australia/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-33.8689009",
+            lon: "151.2070914",
+            "info": info
+        });
+    
+        var info = "<b>350 Bellingham </b><br/> Bellingham, WA, USA<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/350Bellingham'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "48.7595529",
+            lon: "-122.4882249",
+            "info": info
+        });
+    
+        var info = "<b>350 Vietnam\u002D Da Nang </b><br/> Vietnam<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/pages/350-%C4%90%C3%A0-N%E1%BA%B5ng/208915839168255'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "14.058324",
+            lon: "108.277199",
+            "info": info
+        });
+    
+        var info = "<b>350 Connecticut \u000A</b><br/> New Haven, CT, USA<br/>";
+       
+            info += "<a ref='nofollow' href='http://www.350ct.org/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "41.3081527",
+            lon: "-72.9281577",
+            "info": info
+        });
+    
+        var info = "<b>350 Sacramento \u000A</b><br/> Sacramento, CA, USA<br/>";
+       
+            info += "<a ref='nofollow' href='http://www.350sacramento.org/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "38.5815719",
+            lon: "-121.4943996",
+            "info": info
+        });
+    
+        var info = "<b>350 Manitoba</b><br/> Manitoba, Canada<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/pages/Moving-Planet-Manitoba-350org/157082261028964'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "53.7608608",
+            lon: "-98.8138763",
+            "info": info
+        });
+    
+        var info = "<b>350 Egypt</b><br/> Cairo, Egypt<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/groups/160571285329/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "30.064742",
+            lon: "31.249509",
+            "info": info
+        });
+    
+        var info = "<b>American Samoa 350</b><br/> American Samoa<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/groups/AmericanSamoa350/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-14.270972",
+            lon: "-170.132217",
+            "info": info
+        });
+    
+        var info = "<b>Climate Action Italy</b><br/> Milan and Rome, Italy<br/>";
+       
+            info += "<a ref='nofollow' href='http://www.moving-planet.it/italian-climate-network/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "41.8905198",
+            lon: "12.4942486",
+            "info": info
+        });
+    
+        var info = "<b>350 S&#227;o Paulo</b><br/> S&#227;o Paulo, SP, Brazil<br/>";
+       
+            info += "<a ref='nofollow' href='http://www.facebook.com/groups/268648343150096/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-23.5489433",
+            lon: "-46.6388182",
+            "info": info
+        });
+    
+        var info = "<b>350 RJ</b><br/> Rio de Janeiro, RJ, Brazil<br/>";
+       
+            info += "<a ref='nofollow' href='http://www.facebook.com/pages/350org-RJ/271143269567248'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-22.9035393",
+            lon: "-43.2095869",
+            "info": info
+        });
+    
+        var info = "<b>350 Salvador \u002D A&#231;&#227;o Mar Azul</b><br/> Salvador, Bahia, Brazil<br/>";
+       
+            info += "<a ref='nofollow' href='http://www.facebook.com/groups/157301714340610/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-12.9703817",
+            lon: "-38.512382",
+            "info": info
+        });
+    
+        var info = "<b>350 Brunei</b><br/> Bandar Sri Begawan, Brunei<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/pages/350org-Brunei/207138319341078'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "4.8902778",
+            lon: "114.9422222",
+            "info": info
+        });
+    
+        var info = "<b>350 Singapore</b><br/> Singapore, Singapore<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/350sg'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "1.2894365",
+            lon: "103.8499802",
+            "info": info
+        });
+    
+        var info = "<b>350 South Korea</b><br/> Seoul, South Korea<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/350kr?ref=ts'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "37.566535",
+            lon: "126.9779692",
+            "info": info
+        });
+    
+        var info = "<b>350 Taiwan</b><br/> Taipei, Taiwan<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/350orgTaiwan'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "25.091075",
+            lon: "121.5598345",
+            "info": info
+        });
+    
+        var info = "<b>350 Malaysia</b><br/> Kuala Lumpur<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/pages/350org-Malaysia/119404434763377'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "3.139003",
+            lon: "101.686855",
+            "info": info
+        });
+    
+        var info = "<b>350 Aotearoa</b><br/> Wellington, New Zealand<br/>";
+       
+            info += "<a ref='nofollow' href='http://www.350.org.nz/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-41.2924945",
+            lon: "174.7732353",
+            "info": info
+        });
+    
+        var info = "<b>350 Cincinnati </b><br/> Cincinnatti, Ohio, USA<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/350Cincinnati'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "39.1031182",
+            lon: "-84.5120196",
+            "info": info
+        });
+    
+        var info = "<b>350 Chile</b><br/> Chile<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/pages/350org-Chile/130780150337369'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-35.675147",
+            lon: "-71.542969",
+            "info": info
+        });
+    
+        var info = "<b>350 Ecuador</b><br/> Ecuador<br/>";
+       
+            info += "<a ref='nofollow' href='https://www.facebook.com/350Ecuador?sk=info'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-1.831239",
+            lon: "-78.183406",
+            "info": info
+        });
+    
+        var info = "<b>350 Burundi Campaign</b><br/> Bujumbura, Burundi<br/>";
+       
+            info += "<a ref='nofollow' href='http://campagne350burundi.wordpress.com/'>Go to group website</a>";
+       
+       RAH.event_locations.push({
+            lat: "-3.376217",
+            lon: "29.359349",
+            "info": info
+        });
+    
+        var info = "<b>350 Long Island</b><br/> long island<br/>";
+       
+            info += "<a href='/350-long-island/'>View group</a>";
+       
+       RAH.event_locations.push({
+            lat: "40.7891424",
+            lon: "-73.1349605",
+            "info": info
+        });
+    
+        var info = "<b>Local Test Group</b><br/> Albany, NY<br/>";
+       
+            info += "<a href='/local-test-group/'>View group</a>";
+       
+       RAH.event_locations.push({
+            lat: "42.6525793",
+            lon: "-73.7562317",
+            "info": info
+        });
+    
+    </script></div>
+            </div>
+        </div>
+        <div id="footer_container">
+            <div id="footer" class="container_12">
+                <div class="grid_4 alpha">
+                    <a href="http://localhost:8000/" title="Home" id="footer_logo" class="logo_text">
+                        [Site Name]
+                    </a>
+                </div>
+                <div class="grid_4">
+                    <h2>Want to know more?</h2>
+                    <p>
+		      
+This website was created to connect people for bold climate action. We're still improving and adding features all the time.
+		      <a href="http://localhost:8000/about/">Learn More</a>.
+                    </p>
+                </div>
+                <div class="grid_4 omega">
+                    <h2>Follow Us</h2>
+                    <div id="footer_social_icons">
+                        <a href="http://www.facebook.com/350.org" class="sprite_social_fb" title="Find us on Facebook">
+                        </a>
+                        <a href="http://twitter.com/350" class="sprite_social_twitter" title="Follow us on Twitter">
+                        </a>
+                        <a href="http://www.youtube.com/user/350org" class="sprite_social_yt" title="Watch us on YouTube">
+                        </a>
+                        <a href="http://feeds.feedburner.com/350org" class="sprite_social_rss" title="Subscribe to our blog">
+                        </a>
+                    </div>
+                </div>
+                <div class="grid_12 alpha omega">
+                    <a href="http://localhost:8000/feedback/" class="feedback_link" rel="nofollow">Feedback</a> | 
+                    <a href="http://localhost:8000/terms/" rel="nofollow">Terms of Use</a> | 
+                    <a href="http://localhost:8000/privacy/" rel="nofollow">Privacy Policy</a> |
+                    <a href="http://localhost:8000/about/">About Us</a> | 
+                    
+		    350 Groups by <a href="http://350.org">350.org</a> is licensed under a
+		    <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+		      Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+		    
+                </div>
+            </div>
+        </div>
+        
+        <div id="fb-root"></div>
+        <script type="text/javascript" charset="utf-8">
+            var media_url = "/static/"; // contains trailing slash
+            var RAH = RAH || {};
+            RAH.ENV = {};
+            RAH.ENV.facebook_appid = '';
+        </script><script type="text/javascript" charset="utf-8" src="require-jquery.js"></script><script type="text/javascript">
+                (function() {
+                    RAH = RAH || {};
+                    RAH.pagescripts = RAH.pagescripts || [];
+                    
+                    
+                    require({
+                        priority: ["/static/js/pages/base.js?1316362557",
+                        "https://connect.facebook.net/en_US/all.js"].concat(RAH.pagescripts)
+                        }, ["/static/js/pages/base.js?1316362557"].concat(RAH.pagescripts), function () {
+                            var args = Array.prototype.slice.call(arguments);
+                            $(function() {
+                                
+                                
+                            });
+                    });
+                })();
+            </script><script type="text/javascript">
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+            })();
+        </script></body></html>

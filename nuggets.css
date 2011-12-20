@@ -1,0 +1,366 @@
+/* ---------------------------------------------------------------------------------------------------------------------
+Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets Nuggets 
+--------------------------------------------------------------------------------------------------------------------- */
+/* nugget_3c_grid_3 -- Used for completed users on action detail page */
+
+.nugget_3c_grid_3 {
+    height:100%;
+    overflow: auto;
+}
+.nugget_3c_grid_3 li {
+    margin: 6px;
+    float: left;
+}
+.nugget_3c_grid_3 img {
+    padding: 3px;
+    border: 1px solid #ccc;
+    /*height: 54px;*/
+}
+.nugget_3c_grid_3 div {
+    text-overflow: ellipsis;
+    width: 62px;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 12px;
+}
+.nugget_3c_grid_3_share li {
+    margin: 6px 11px;
+}
+.nugget_3c_grid_badges img {
+    border: 0px;
+    padding: 0px;
+}
+
+/* nugget_3c_grid_2 -- Used for displaying stats on profile pages, community pages*/
+.nugget_3c_grid_2 {
+    height:100%;
+    overflow: auto;
+    margin-left: 3px;
+}
+.nugget_3c_grid_2 li {
+    float: left;
+    color: #0F3669;
+    background: #E0ECF3;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    width: 88px;
+    height: 88px;
+    font-size: 14px;
+    line-height: 18px;
+    font-family:"MuseoSlab700", Tahoma, sans-serif;
+    padding: 9px 9px 9px 9px;
+}
+.nugget_3c_grid_2 li div {
+    font-family:"MuseoSlab900", Tahoma, sans-serif;
+    font-size: 58px;
+    line-height: 58px;
+    text-align: center;
+}
+.nugget_3c_grid_2 li div.digits_3 { font-size: 42px; }
+.nugget_3c_grid_2 li div.digits_4 { font-size: 32px; }
+.nugget_3c_grid_2 li div.digits_5 { font-size: 26px; }
+.nugget_3c_grid_2 li div.digits_6 { font-size: 22px; }
+.nugget_3c_grid_2 li div.digits_7 { font-size: 18px; }
+.nugget_3c_grid_2 li div.digits_max { font-size: 16px; }
+
+
+/*nugget_3c_list -- Used as a base for event lists*/
+.nugget_3c_list li {
+    overflow: hidden;
+    margin-bottom: 6px;
+}
+.nugget_3c_list .nugget_3c_list_graphic { float: left; }
+.nugget_3c_list .nugget_3c_list_cal_month {
+    background: #FF2403;
+    color: #FFF;
+    border: 1px solid #FF2403;
+    width: 36px;
+    font-size: 10px;
+    line-height: 13px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.nugget_3c_list .nugget_3c_list_cal_date {
+    text-align: center;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: bold;
+    border: 1px solid #CCCCCC;
+    border-top: 0;
+    width: 36px;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;    
+}
+.nugget_3c_list .nugget_3c_list_text {
+    margin-left: 9px;
+    float: left;
+    width: 160px;
+    font-weight: bold;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    padding-top: 3px;
+    line-height: 18px;
+}
+.nugget_3c_list .nugget_3c_list_text span {
+    color: #999999;
+    font-weight: normal;
+}
+
+/*nugget_2c_list -- Used on featured users on home page, paginated lists of users on community pages, etc. */
+.nugget_2c_list {
+    height: 100%;
+    overflow: auto;
+}
+.nugget_2c_list li {
+    float: left;
+    margin-bottom: 6px;
+}
+.nugget_2c_list li img {
+    border: 1px solid #ccc;
+    padding: 3px;
+    margin-right: 3px;
+    float: left;
+}
+.nugget_2c_list li div {
+    color: #8FD100;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 8px;
+    margin-left: 3px;
+    line-height: 16px;
+    float: left;
+    width: 90px;
+    height: 48px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.nugget_2c_list li div span {
+    color: #333;
+}
+
+/*nugget_4c_list -- Used on homepage for featured communities */
+
+.nugget_4c_list {
+    height: 100%;
+    overflow: auto;
+}
+.nugget_4c_list li {
+    float: left;
+    margin-bottom: 18px;
+}
+.nugget_4c_list li img {
+    float: left;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-right: 9px;
+}
+.nugget_4c_list li div {
+    color: #8FD100;
+    float: left;
+    font-weight: bold;
+    line-height: 18px;
+    padding-top: 9px;
+}
+.nugget_4c_list li div span {
+    color: #999999;
+    font-weight: normal;
+}
+
+/*nugget_6c_list -- used for displaying user's communities on their profile page*/
+.nugget_6c_list li {
+    overflow: auto;
+    height: 100%;
+    padding: 12px 0 6px 0;
+    border-top: 1px dotted #E6E5D2;
+}
+.nugget_6c_list .nugget_6c_list_last{
+    border-bottom: 1px dotted #E6E5D2;
+}
+.nugget_6c_list img {
+    padding: 9px;
+    border: 1px solid #CCC;
+}
+.nugget_6c_list .nugget_6c_list_image, .nugget_6c_list .nugget_6c_list_text {
+    float: left;
+}
+.nugget_6c_list .nugget_6c_list_stat {
+    float: right;
+}
+.nugget_6c_list .nugget_6c_list_text {
+    padding: 9px 0 0 9px;
+}
+.nugget_6c_list .nugget_6c_list_text a {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 16px;
+    width: 190px;
+}
+.nugget_6c_list .nugget_6c_list_text span {
+    color: #666;
+}
+.nugget_6c_list .nugget_6c_list_stat {
+    padding: 8px;
+    width: 61px;
+    height: 64px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: #E0ECF3;
+    color: #0F3669;
+    text-align: center;
+    margin-left: 6px;
+    font-size: 12px;
+}
+.nugget_6c_list .nugget_6c_list_stat div {
+    font-size: 12px;
+    font-family:"MuseoSlab900", Tahoma, sans-serif;
+    line-height: 40px;
+}
+.nugget_6c_list .nugget_6c_list_stat .digits_1 { font-size: 48px; }
+.nugget_6c_list .nugget_6c_list_stat .digits_2 { font-size: 42px; }
+.nugget_6c_list .nugget_6c_list_stat .digits_3 { font-size: 30px; }
+.nugget_6c_list .nugget_6c_list_stat .digits_4 { font-size: 24px; }
+.nugget_6c_list .nugget_6c_list_stat .digits_5 { font-size: 16px; }
+.nugget_6c_list .nugget_6c_list_stat .digits_6 { font-size: 16px; }
+.nugget_6c_list .nugget_6c_list_stat .digits_max { font-size: 12px; }
+
+
+/*nugget_3c -- Used on action, badge, and challenge landing pages*/
+.nugget_3c li { 
+    float: left;
+    margin: 5px;
+    padding: 9px 9px 0px 9px;
+    width: 200px;
+    position: relative;
+    border: 1px solid #E5E5E5;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    height: 160px;
+    cursor: pointer;
+    overflow: auto;
+}
+.nugget_3c li p {
+    font-size: 12px;
+    line-height: 14px;
+    color: #666;
+    margin-bottom: 0px;
+}
+.nugget_3c li img {
+    float: left;
+    margin-right: 9px;
+} 
+
+.nugget_3c li.nugget_3c_completed {
+    border-color: #45AB02;
+}
+.nugget_3c .nugget_3c_completed .nugget_3c_status {
+    background:  #45AB02;
+    font-size: 10px;
+    color: #FFF;
+}
+.nugget_3c .nugget_3c_committed .nugget_3c_status {
+    background:  #0F3669;
+    font-size: 10px;
+    color: #FFF;
+}
+.nugget_3c li.nugget_3c_committed {
+    border-color: #0F3669;
+}
+.nugget_3c_status {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color: #45AB02;
+    font-size: 11px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.nugget_3c .nugget_3c_narrow div {
+    color: #45AB02;
+    font-size: 12px;
+    font-weight: bold;
+}
+.nugget_3c h2 {
+    font-size: 18px;
+    line-height: 20px;
+    max-height: 60px;
+    overflow: hidden;
+}
+.nugget_3c h2 a:hover {
+    text-decoration: none;
+}
+.nugget_3c li:hover {
+    border-color: #666;
+}
+/*specific for badges*/
+.nugget_3c .nugget_3c_narrow { 
+    height: 230px;
+    text-align: center;
+    padding: 24px 9px 0px 9px;
+}
+.nugget_3c .nugget_3c_narrow img {
+    float: none;
+}
+/*specific for challenges*/
+.nugget_3c .nugget_3c_tall { 
+    height: 230px;
+    padding: 9px;
+}
+.nugget_3c .nugget_3c_tall .progress_nugget {
+    position: absolute;
+    left: 9px;
+    bottom: 9px;
+    border-top: 1px solid #E5E5E5;
+}
+.nugget_3c .nugget_3c_tall .progress_nugget .progress_label {
+    display: block;
+}
+
+/*Used for event listings on show page and archive page*/
+.nugget_9c_list li {
+    padding: 9px;
+    background: #F2F2F2;
+    margin-bottom: 2px;
+    overflow: auto;
+    height: 100%;
+}
+.nugget_9c_list li img, .nugget_9c_list_name, .nugget_9c_list_desc {
+    float: left;
+}
+.nugget_9c_list li img {
+    margin-right: 12px;
+    padding: 6px;
+    border: 1px solid #666;
+    background: #fff;
+}
+.nugget_9c_list_name {
+    width: 248px;
+    margin-right: 18px;
+}
+.nugget_9c_list_name a {
+    font-size: 18px;
+    font-weight: bold;
+}
+.nugget_9c_list_name div span {
+    font-weight: bold;
+}
+.nugget_9c_list_desc {
+    width: 300px;
+}
+
